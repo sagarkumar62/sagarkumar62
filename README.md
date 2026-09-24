@@ -8,7 +8,8 @@
 
 ### 🏢 Experience
 
-- Currently at **Sheryians Coding School**
+- Interned at **Sheryians Coding School**
+- Interned at **TechieHelp**
 - Based in **Bhopal, Madhya Pradesh, India**
 
 ### 🛠️ Tech Stack
