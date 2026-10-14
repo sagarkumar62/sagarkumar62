@@ -8,8 +8,10 @@
 
 ### 🏢 Experience
 
-- Interned at **Sheryians Coding School**
-- Interned at **TechieHelp**
+- Interning at **The AISignal** as AI Engineer Intern
+- Interned at **Sheryians Coding School** as Web Developer Intern
+- Interned at **TechieHelp** as Web Developer Intern
+- Interned at **OnlyCounselling** as Business Counselling Intern
 - Based in **Bhopal, Madhya Pradesh, India**
 
 ### 🛠️ Tech Stack
